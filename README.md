@@ -16,7 +16,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eogus4658)](https://s
 
   📧Email📧<br>eogus1824@gmail.com
   
-  반갑습니다👊<br>제 이름은 이대
+  반갑습니다👊
   </div>
 
 
