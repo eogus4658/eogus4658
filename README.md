@@ -4,7 +4,7 @@
 	
   </div>
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/eogus4658/github-readme-stats)
 ### Hi there 👋
 
 <!--
