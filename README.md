@@ -15,8 +15,6 @@
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eogus4658)](https://solved.ac/eogus4658)
 
   📧Email📧<br>eogus1824@gmail.com
-  
-  반갑습니다👊
   </div>
 
 <!--
