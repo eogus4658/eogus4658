@@ -1,10 +1,10 @@
+  
   <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/eogus4658/github-readme-stats)
+  </div>
+# LEE DAE HYUN 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feogus4658&count_bg=%2318C778&title_bg=%230F9056&icon=&icon_color=%23A3BC29&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 ### Hi there 👋
 
 <!--
