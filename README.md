@@ -6,7 +6,7 @@
 
   # Hi there 👋
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feogus4658&count_bg=%2318C778&title_bg=%230F9056&icon=&icon_color=%23A3BC29&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feogus4658&count_bg=%2318C778&title_bg=%230F9056&icon=&icon_color=%23A3BC29&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eogus4658&theme=dark&show_icons=true)
 [![Solved.ac
